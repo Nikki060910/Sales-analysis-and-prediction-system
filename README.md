@@ -26,7 +26,7 @@ This project explores a car sales dataset to uncover key sales patterns such as 
 
 ## How to Run
 
-* Open **`Untitled20.html`** to view the complete analysis, code, and visualizations
+* Open **`Untitled20.ipynb`** to view the complete analysis, code, and visualizations
 * Requirements: Python, pandas, matplotlib, seaborn
 * Run the original notebook (`ipynb` version) for editable analysis
 
